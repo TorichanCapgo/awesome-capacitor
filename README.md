@@ -45,3 +45,7 @@ An awesome list for Capacitor (with or without Ionic) resources such as online t
 * [Plugin template](https://github.com/ionic-team/capacitor/tree/master/plugin-template)
 * [Capacitor CLI](https://www.npmjs.com/package/@capacitor/cli)
 
+## Live updates
+
+* [Capgo](https://capgo.app/) - Over-the-air live updates for Capacitor apps
+
